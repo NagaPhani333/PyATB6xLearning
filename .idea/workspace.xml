@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="ex_02 deleted">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_Print.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab03">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab004_Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab005_Variable_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier_Rules.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_Print.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab002_Comment.executor": "Run",
+    "Python.Lab003_Print.executor": "Run",
+    "Python.Lab004_Keyword.executor": "Run",
+    "Python.Lab005_Variable_Part1.executor": "Run",
+    "Python.Lab006_Identifier_Rules.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Lab001_Python_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
@@ -81,8 +88,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab003_Print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_01_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_Print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab003_Print" />
         <item itemvalue="Python.Lab001_Python_Hello" />
       </list>
     </recent_temporary>
@@ -126,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759819278553</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="till lab03">
+      <option name="closed" value="true" />
+      <created>1759978339110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759978339110</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +182,7 @@
     <MESSAGE value="Lab001_Python_Hello" />
     <MESSAGE value="ex_02 created" />
     <MESSAGE value="ex_02 deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex_02 deleted" />
+    <MESSAGE value="till lab03" />
+    <option name="LAST_COMMIT_MESSAGE" value="till lab03" />
   </component>
 </project>
