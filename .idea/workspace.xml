@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab03 to lab06">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab007_Variables_Names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab009_Identifier_Rule.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab06 to lab09">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab010_Maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab011_IQ_BODMAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab012_Multiple_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab013_Multiple_Prints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab014_Math_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab015_Concat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,12 @@
     "Python.Lab007_Variables_Names.executor": "Run",
     "Python.Lab008_Dynamically_Typed.executor": "Run",
     "Python.Lab009_Identifier_Rule.executor": "Run",
+    "Python.Lab011_IQ_BODMAS.executor": "Run",
+    "Python.Lab012_Multiple_Variables.executor": "Run",
+    "Python.Lab013_Multiple_Prints.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab015_Concat.executor": "Run",
+    "Python.Lab_Maths.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -119,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab003_Print" />
         <item itemvalue="Python.Lab001_Python_Hello" />
+        <item itemvalue="Python.Lab003_Print" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760083222340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="till lab06 to lab09">
+      <option name="closed" value="true" />
+      <created>1760197141064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760197141064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +215,7 @@
     <MESSAGE value="ex_02 deleted" />
     <MESSAGE value="till lab03" />
     <MESSAGE value="till lab03 to lab06" />
-    <option name="LAST_COMMIT_MESSAGE" value="till lab03 to lab06" />
+    <MESSAGE value="till lab06 to lab09" />
+    <option name="LAST_COMMIT_MESSAGE" value="till lab06 to lab09" />
   </component>
 </project>
