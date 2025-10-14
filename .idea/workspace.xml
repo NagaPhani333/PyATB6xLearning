@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab10 to lab15">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab016_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab017_Multi_Comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab019_Data_Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_Strings_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab027_String_Double_Single_Diff.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab15 to lab26">
+      <change afterPath="$PROJECT_DIR$/Task/Task03_area of circle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab015_Concat.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab015_Concat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_Strings_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_Strings_Conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +76,7 @@
     "Python.Lab026_Escape_Char.executor": "Run",
     "Python.Lab027_String_Double_Single_Diff.executor": "Run",
     "Python.Lab_Maths.executor": "Run",
+    "Python.Task03_area of circle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -218,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760199478673</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="till lab15 to lab26">
+      <option name="closed" value="true" />
+      <created>1760385586905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760385586905</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +238,7 @@
     <MESSAGE value="till lab03 to lab06" />
     <MESSAGE value="till lab06 to lab09" />
     <MESSAGE value="till lab10 to lab15" />
-    <option name="LAST_COMMIT_MESSAGE" value="till lab10 to lab15" />
+    <MESSAGE value="till lab15 to lab26" />
+    <option name="LAST_COMMIT_MESSAGE" value="till lab15 to lab26" />
   </component>
 </project>

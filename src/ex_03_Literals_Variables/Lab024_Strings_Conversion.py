@@ -13,3 +13,7 @@ age1 = str(age1)
 print("age1", age1, type(age1))
 age = float(age)
 print("age", age, type(age))
+
+print(5/2)
+print(5//2)
+print(10%2)
