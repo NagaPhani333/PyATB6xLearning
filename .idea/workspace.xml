@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="till lab15 to lab26">
-      <change afterPath="$PROJECT_DIR$/Task/Task03_area of circle.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="Lab 24 changes and task3">
+      <change afterPath="$PROJECT_DIR$/Task/Task02_Quotient &amp; Remainder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_Strings_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_Strings_Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task03_area of circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task03_area of circle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
     "Python.Lab026_Escape_Char.executor": "Run",
     "Python.Lab027_String_Double_Single_Diff.executor": "Run",
     "Python.Lab_Maths.executor": "Run",
+    "Python.Task02_Quotient & Remainder.executor": "Run",
     "Python.Task03_area of circle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -216,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760385586905</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab 24 changes and task3">
+      <option name="closed" value="true" />
+      <created>1760408996878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760408996878</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +248,7 @@
     <MESSAGE value="till lab06 to lab09" />
     <MESSAGE value="till lab10 to lab15" />
     <MESSAGE value="till lab15 to lab26" />
-    <option name="LAST_COMMIT_MESSAGE" value="till lab15 to lab26" />
+    <MESSAGE value="Lab 24 changes and task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 24 changes and task3" />
   </component>
 </project>
