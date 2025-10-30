@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="lab 29 to 31 and area of triangle">
-      <change afterPath="$PROJECT_DIR$/Task/Task_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_FizzBuzz.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="tasks factorial, fizzbuzz">
+      <change afterPath="$PROJECT_DIR$/Task/Task_APIResponse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task_PageLoad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task_TitleMatch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,10 @@
     "Python.Task01_Add_Mul_Sub_Divide.executor": "Run",
     "Python.Task02_Quotient & Remainder.executor": "Run",
     "Python.Task03_area of circle.executor": "Run",
+    "Python.Task_APIResponse.executor": "Run",
     "Python.Task_Factorial.executor": "Run",
+    "Python.Task_PageLoad.executor": "Run",
+    "Python.Task_TitleMatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -261,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761615254932</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="tasks factorial, fizzbuzz">
+      <option name="closed" value="true" />
+      <created>1761712978200</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761712978200</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +300,7 @@
     <MESSAGE value="Task2 and 3 changes and task3" />
     <MESSAGE value="Tas 1 changes and task3" />
     <MESSAGE value="lab 29 to 31 and area of triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 29 to 31 and area of triangle" />
+    <MESSAGE value="tasks factorial, fizzbuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks factorial, fizzbuzz" />
   </component>
 </project>
