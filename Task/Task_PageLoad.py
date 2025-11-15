@@ -10,3 +10,7 @@ elif LoadTime > 3:
     print("Page load is too slow")
 else:
     print("Please enter a valid load time")
+
+
+
+

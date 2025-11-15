@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="tasks factorial, fizzbuzz">
-      <change afterPath="$PROJECT_DIR$/Task/Task_APIResponse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_PageLoad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_TitleMatch.py" afterDir="false" />
+    <list default="true" id="223b6a12-89a8-4791-9389-937a76ceafec" name="Changes" comment="tasks api response, pageload,titlematch">
+      <change afterPath="$PROJECT_DIR$/Task/Class_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_UnaryOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab032_Comparision_Op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logic_Op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab034_Operators_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab035_Operators_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Comparsion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab038_Operators_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab039_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Operators_P9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_User_Input_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Memership_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Identity_Operaor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task_PageLoad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task_PageLoad.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Class_demo.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Comment.executor": "Run",
     "Python.Lab003_Print.executor": "Run",
@@ -80,6 +94,18 @@
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab030_Task2.executor": "Run",
     "Python.Lab031_Arth_Operators.executor": "Run",
+    "Python.Lab031_UnaryOperator.executor": "Run",
+    "Python.Lab033_Logic_Op.executor": "Run",
+    "Python.Lab034_Operators_P2.executor": "Run",
+    "Python.Lab035_Operators_P4.executor": "Run",
+    "Python.Lab036_Operators_Comparsion.executor": "Run",
+    "Python.Lab037_Operators_Logical.executor": "Run",
+    "Python.Lab038_Operators_example.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Operators_P9.executor": "Run",
+    "Python.Lab040_Ternary_Operator.executor": "Run",
+    "Python.Lab040_User_Input_Ternary_Operators.executor": "Run",
+    "Python.Lab041_Memership_Operator.executor": "Run",
     "Python.Lab_Maths.executor": "Run",
     "Python.Task01_Add_Mul_Sub_Divide.executor": "Run",
     "Python.Task02_Quotient & Remainder.executor": "Run",
@@ -273,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761712978200</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="tasks api response, pageload,titlematch">
+      <option name="closed" value="true" />
+      <created>1761789168923</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761789168923</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +335,7 @@
     <MESSAGE value="Tas 1 changes and task3" />
     <MESSAGE value="lab 29 to 31 and area of triangle" />
     <MESSAGE value="tasks factorial, fizzbuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks factorial, fizzbuzz" />
+    <MESSAGE value="tasks api response, pageload,titlematch" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks api response, pageload,titlematch" />
   </component>
 </project>
